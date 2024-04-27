@@ -1,0 +1,26 @@
+# Car Purchase Analysis
+
+## Introduction :
+This repository contains the code and documentation for analyzing the "Cars - Purchase Decision" dataset using Python and statistical methods. The dataset contains information about car purchase decisions, including user demographics and whether they made a purchase. Our goal is to explore, analyze, and draw insights from this data.
+
+## Description:
+
+* User ID: Unique identifier for each user.
+
+* Gender: Gender of the user (Male or Female).
+
+* Age: Age of the user.
+
+* AnnualSalary: Annual salary of the user.
+
+* Purchased: Whether the user made a purchase (Yes or No).
+
+## Skills Used
+> [!NOTE]
+> python
+> Pandas
+> Numpy
+> Scipy
+> Plotly
+> Statsmodel
+
